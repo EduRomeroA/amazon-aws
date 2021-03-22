@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  API_DATOS: 'http://192.168.100.116/GET/guardar'
 };
 
 /*
